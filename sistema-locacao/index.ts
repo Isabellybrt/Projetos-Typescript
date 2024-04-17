@@ -37,7 +37,7 @@ const main = () => {
         menuView.closeMenu()
         break;
       default:
-        console.log("Opção inválida. Tente novamente.");
+        console.log("Opção inválida. Tente novamente!");
         main();
         break;
     }
